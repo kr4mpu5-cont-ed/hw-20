@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "HiFi",
+      "image": "/images/iconfinder_vinyl.png",
+      "description": "Group project to create a record store management site.",
+      "url": "https://github.com/meatripoli/HiFi/"
+    },
+    {
+        "id": 2,
+        "name": "Quick Get Away",
+        "image": "/images/iconfinder_paperplane.png",
+        "description": "Group project to build a minimal web app to plan a quick, last-minute trip.",
+        "url": "https://kr4mpu5-cont-ed.github.io/ProjectAgile/"
+      },
+      {
+        "id": 3,
+        "name": "Employee Tracker",
+        "image": "/images/iconfinder_orgchart.png",
+        "description": "Eemployee management CLI using node, inquirer, and MySQL.",
+        "url": "https://github.com/kr4mpu5-cont-ed/hw-12"
+      },
+      {
+        "id": 4,
+        "name": "Wx Dashboard",
+        "image": "/images/iconfinder_cloudy.png",
+        "description": "Weather dashboard using OpenWeather API.",
+        "url": "https://kr4mpu5-cont-ed.github.io/hw-06/"
+      },
+      {
+        "id": 5,
+        "name": "Work Day Scheduler",
+        "image": "/images/iconfinder_scheduler.png",
+        "description": "Simple Jquery calendar application.",
+        "url": "https://kr4mpu5-cont-ed.github.io/hw-05/"
+      },
+      {
+        "id": 6,
+        "name": "Coding Quiz Challenge",
+        "image": "/images/iconfinder_pencil.png",
+        "description": "JQuery multiple-choice coding quiz.",
+        "url": "https://kr4mpu5-cont-ed.github.io/hw-04/"
+      }   
+  ]
+  
