@@ -9,7 +9,7 @@ Create a portfolio page using React.
 At a minimum, portfolio should include the following:
 
 * [x] Uses React
-* [ ] `Header` component on multiple pages
+* [x] `Header` component on multiple pages
 * [x] A single `Project` component used for at least 6 projects
 * [x] Navigation with React Router, dynamic rendering, or another third part router
 * [x] `Footer` component on multiple pages
@@ -17,7 +17,7 @@ At a minimum, portfolio should include the following:
 ## Submission on BCS
 
 You are required to submit the following:
-* [ ] the URL to the deployed application
-* [ ] the URL to the Github repository
+* [x] the URL to the deployed application
+* [x] the URL to the Github repository
 
 <!-- ref: /IN_CLASS_WORK/20200213/my-react-app -->
