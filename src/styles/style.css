@@ -44,7 +44,8 @@ a:active {
   overflow: auto;
 }
 .contact {
-  display: inline;
+  display: block;
+  width: 100%
 }
 .card {
   background: #fff;
